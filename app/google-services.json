@@ -1,0 +1,42 @@
+{
+"project_info": {
+    "project_number": "849101423080",
+    "firebase_url": "https://cttrophy.firebaseio.com",
+    "project_id": "cttrophy",
+    "storage_bucket": "cttrophy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849101423080:android:fd36f3692a7f2e74",
+        "android_client_info": {
+          "package_name": "com.example.chandan.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849101423080-lcljm14b28ch17hqsju486qio2r5lo53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRCxaGEt4GqdH4BZSxesbiy0phI-sjtU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
